@@ -10,10 +10,6 @@ import java.io.RandomAccessFile;
 import java.util.Calendar;
 import java.util.Date;
 
-/**
- *
- * @author pcast
- */
 public class no {
       private RandomAccessFile rcods, remps;
     public no() {
